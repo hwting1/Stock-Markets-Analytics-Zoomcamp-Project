@@ -1,0 +1,7 @@
+torch
+numpy<2.0
+pandas
+python-dateutil
+yfinance
+tabulate
+wandb
