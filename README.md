@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### Simulation Trading
 - Make sure you have at least one pre-trained model file in the `model` folder (I have provided mine).
 - You can modify `trade_config.json` to customize your trading configuration.
-- Run ```python trade.py``` to simulate real-time trading.
+- Run ```python main.py``` to simulate real-time trading.
 
 ## Dataset
 
