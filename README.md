@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 | Market | Num. of stocks | Train   | Validation | Test    | features                                        |
 |--------|----------------|------------|------------|---------|-------------------------------------------------|
-| DIJA 30| 30             | 2001-2021  | 2022       | 2023| open, close, high, low prices, true range ratio |
+| DJIA 30| 30             | 2001-2021  | 2022       | 2023| open, close, high, low prices, true range ratio |
 
 - OCHL prices are normalized by dividing them by the previous day's closing price and then taking the logarithm.
 -  "DOW," "CRM," and "V" have been replaced by "XOM," "PFE," and "RTX" due to insufficient data.
